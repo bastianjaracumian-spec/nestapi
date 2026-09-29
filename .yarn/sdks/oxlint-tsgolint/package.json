@@ -1,0 +1,8 @@
+{
+  "name": "oxlint-tsgolint",
+  "version": "7.0.2002-sdk",
+  "type": "commonjs",
+  "bin": {
+    "tsgolint": "./bin/tsgolint.js"
+  }
+}
